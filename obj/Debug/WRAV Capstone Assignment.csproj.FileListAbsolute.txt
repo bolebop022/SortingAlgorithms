@@ -1,0 +1,13 @@
+C:\Users\Sihle\Desktop\WRAV Capstone Assignment\WRAV Capstone Assignment\bin\Debug\WRAV Capstone Assignment.exe.config
+C:\Users\Sihle\Desktop\WRAV Capstone Assignment\WRAV Capstone Assignment\bin\Debug\WRAV Capstone Assignment.exe
+C:\Users\Sihle\Desktop\WRAV Capstone Assignment\WRAV Capstone Assignment\bin\Debug\WRAV Capstone Assignment.pdb
+C:\Users\Sihle\Desktop\WRAV Capstone Assignment\WRAV Capstone Assignment\obj\Debug\WRAV Capstone Assignment.csprojAssemblyReference.cache
+C:\Users\Sihle\Desktop\WRAV Capstone Assignment\WRAV Capstone Assignment\obj\Debug\WRAV Capstone Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Sihle\Desktop\WRAV Capstone Assignment\WRAV Capstone Assignment\obj\Debug\WRAV Capstone Assignment.exe
+C:\Users\Sihle\Desktop\WRAV Capstone Assignment\WRAV Capstone Assignment\obj\Debug\WRAV Capstone Assignment.pdb
+C:\Users\bonga\OneDrive\Documents\University\2020\1st Semsester\Data Structures and Algorithms\Practicals\WRAV Capstone Assignment\WRAV Capstone Assignment\bin\Debug\WRAV Capstone Assignment.exe.config
+C:\Users\bonga\OneDrive\Documents\University\2020\1st Semsester\Data Structures and Algorithms\Practicals\WRAV Capstone Assignment\WRAV Capstone Assignment\bin\Debug\WRAV Capstone Assignment.exe
+C:\Users\bonga\OneDrive\Documents\University\2020\1st Semsester\Data Structures and Algorithms\Practicals\WRAV Capstone Assignment\WRAV Capstone Assignment\bin\Debug\WRAV Capstone Assignment.pdb
+C:\Users\bonga\OneDrive\Documents\University\2020\1st Semsester\Data Structures and Algorithms\Practicals\WRAV Capstone Assignment\WRAV Capstone Assignment\obj\Debug\WRAV Capstone Assignment.csprojAssemblyReference.cache
+C:\Users\bonga\OneDrive\Documents\University\2020\1st Semsester\Data Structures and Algorithms\Practicals\WRAV Capstone Assignment\WRAV Capstone Assignment\obj\Debug\WRAV Capstone Assignment.exe
+C:\Users\bonga\OneDrive\Documents\University\2020\1st Semsester\Data Structures and Algorithms\Practicals\WRAV Capstone Assignment\WRAV Capstone Assignment\obj\Debug\WRAV Capstone Assignment.pdb
